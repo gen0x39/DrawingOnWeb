@@ -1,2 +1,0 @@
-# DrawingOnWeb
-Created with CodeSandbox
